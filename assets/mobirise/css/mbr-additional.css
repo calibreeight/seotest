@@ -1135,6 +1135,10 @@ a.text-black {
   }
 }
 
+h1 {
+    text-weight: 800;
+}
+
 
 
 
@@ -4735,6 +4739,10 @@ a.text-black {
   .desktopbutton1 {
     display: none;
   }
+}
+
+h1 {
+    text-weight: 800;
 }.cid-s5lrOT17mk .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
