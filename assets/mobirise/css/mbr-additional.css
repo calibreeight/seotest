@@ -2469,6 +2469,16 @@ hr {
 .cid-9SYYCrEaWS .customHTML {
   padding: 0px !important;
 }
+@media screen and (min-device-width: 777px) {
+  .cid-9SYYCrEaWS .customHTML {
+    display: none !important;
+  }
+}
+@media screen and (max-device-width: 776px) {
+  .cid-9SYYCrEaWS .customHTML {
+    display: inline;
+  }
+}
 .cid-s5lrOT17mk .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
