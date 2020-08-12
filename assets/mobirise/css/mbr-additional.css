@@ -1130,7 +1130,7 @@ a.text-black {
 
 
 @media (max-width: 768px) {
-  .desktoponly {
+  .desktopbutton1 {
     display: none;
   }
 }
@@ -4732,7 +4732,7 @@ a.text-black {
 
 
 @media (max-width: 768px) {
-  .desktoponly {
+  .desktopbutton1 {
     display: none;
   }
 }.cid-s5lrOT17mk .dropdown-item:before {
