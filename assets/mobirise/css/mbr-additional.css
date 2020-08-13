@@ -1139,7 +1139,7 @@ h1 {
 }
 
 @media (min-width: 768px) {
-  .mobilebutton1 {
+  .mobilebutton2 {
     display: none;
   }
 }
@@ -3686,8 +3686,8 @@ hr {
   position: fixed;
   width: 60px;
   height: 60px;
-  bottom: 10px;
-  right: 10px;
+  bottom: 20px;
+  right: 20px;
   background-color: #e9204e;
   color: #ffffff;
   border-radius: 60px;
@@ -4850,7 +4850,7 @@ h1 {
 }
 
 @media (min-width: 768px) {
-  .mobilebutton1 {
+  .mobilebutton2 {
     display: none;
   }
 }
