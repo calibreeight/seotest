@@ -1139,7 +1139,7 @@ h1 {
 }
 
 @media (min-width: 768px) {
-  .mobilebutton2 {
+  .mobilebutton1 {
     display: none;
   }
 }
@@ -4850,7 +4850,7 @@ h1 {
 }
 
 @media (min-width: 768px) {
-  .mobilebutton2 {
+  .mobilebutton1 {
     display: none;
   }
 }
