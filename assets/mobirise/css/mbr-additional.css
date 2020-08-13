@@ -1138,6 +1138,13 @@ h1 {
     font-weight: 800 !important;
 }
 
+@media (min-width: 768px) {
+  .mobilebutton1 {
+    display: none;
+  }
+}
+
+
 
 
 
@@ -3675,6 +3682,35 @@ hr {
 .cid-9SYYCrEaWS .customHTML {
   padding: 0px !important;
 }
+.cid-vL1kvjTDVk .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 10px;
+  right: 10px;
+  background-color: #e9204e;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: -2px 2px 3px rgba(0, 0, 0, 0.4);
+  z-index: 100;
+}
+.cid-vL1kvjTDVk .my-float {
+  margin-top: 16px;
+}
+.cid-vL1kvjTDVk P {
+  color: #232323;
+}
+.cid-vL1kvjTDVk DIV {
+  color: #ffffff;
+}
+.cid-vL1kvjTDVk H10 {
+  color: #767676;
+}
+.cid-vL1kvjTDVk .hidden {
+  display: none;
+}
 section {
   background-color: #eeeeee;
 }
@@ -4811,7 +4847,14 @@ a.text-black {
 
 h1 {
     font-weight: 800 !important;
-}.cid-s5lrOT17mk .dropdown-item:before {
+}
+
+@media (min-width: 768px) {
+  .mobilebutton1 {
+    display: none;
+  }
+}
+.cid-s5lrOT17mk .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
   display: inline-block;
